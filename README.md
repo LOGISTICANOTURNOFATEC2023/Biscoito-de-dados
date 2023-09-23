@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
 * [Estrutura do Jira Software](#estrutura-do-jira-software)
-* [Backlog do produto](#Backlog-do-produto-e-sprints)
+* [Backlog do produto](#Backlog-do-produto-sprints-e-regras-do-negócio)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -120,7 +120,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 # Estrutura do jira software
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence, porem essa parte ainda está em processo.
  <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>

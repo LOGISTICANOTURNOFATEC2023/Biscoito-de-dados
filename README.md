@@ -79,7 +79,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Equipe](https://github.com/Camillevcrocha/bis/blob/main/Autores.png)
+![Equipe](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Autores.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar a identificar o potencial regional de movimentação de cargas que podem alavancar o aeroporto de São José dos Campos, utilizando:
@@ -91,13 +91,13 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 
 # Vídeos e apresentações das sprints
 
-- [5w2h](https://github.com/Camillevcrocha/bis/blob/main/5W2H..%20(2).pdf)
- 
-- [Analíse SWOT da empresa/primeira entrega](https://github.com/Camillevcrocha/bis/blob/main/SWOT%20da%20sprint%20zero.jfif)
+### Método 5W2H
+### Análise SWOT da primeira entrega
+  ![Análise SWOT](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/An%C3%A1liseSWOT.jpg)
   
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > MVP referente a Sprint
 
  ### Tecnológias Específicas/Apoio
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
@@ -108,8 +108,8 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - Word
   
  ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
+> Tecnologias referentes aos processos da API
+
 - Power BI
 - [![MVP]()](https://www.youtube.com/watch?v=wtpstMZwozs)
 - MVP
@@ -126,12 +126,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 
-
 # Backlog do produto e sprints
   
 <div align="center">
     
-![product backlog](https://github.com/Camillevcrocha/bis/blob/main/Backlogdoproduto.png)
+![product backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlogdoproduto.png)
 ![sprint backlog](https://github.com/Camillevcrocha/bis/blob/main/Sprint01.png)
 </div>
 

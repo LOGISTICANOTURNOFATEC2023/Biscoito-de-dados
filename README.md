@@ -84,8 +84,8 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar a identificar o potencial regional de movimentação de cargas que podem alavancar o aeroporto de São José dos Campos, utilizando:
 * Dados retirados da base de dados siscomex;
-* Software Jira para gestão do projeto e utilização do método ágil;
-* Software Power BI para analise de dados e apresentação do dashbord;
+* Jira Software para gestão do projeto e utilização do método ágil;
+* Software Power BI para análise de dados e apresentação do dashbord;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas da equipe.
 
@@ -93,7 +93,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 
 - [5w2h](https://github.com/Camillevcrocha/bis/blob/main/5W2H..%20(2).pdf)
  
-- [Analíse SWOT da empresa](https://github.com/Camillevcrocha/bis/blob/main/SWOT%20da%20sprint%20zero.jfif)
+- [Analíse SWOT da empresa/primeira entrega](https://github.com/Camillevcrocha/bis/blob/main/SWOT%20da%20sprint%20zero.jfif)
   
 ## Tecnologias Utilizadas
   ### Produto 
@@ -121,8 +121,11 @@ Exemplos:
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+ <p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
-#### Estrutução[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+
 
 # Backlog do produto e sprints
   
@@ -139,7 +142,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ### Requisitos não funcionais
 
 # Burndown
-![sprint backlog](h
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 
 ## Apresentação do backlog

@@ -117,8 +117,6 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - Power BI
 - [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
   
-- Método 5W2H
-  
 # Estrutura do jira software
 
 ## Cronograma

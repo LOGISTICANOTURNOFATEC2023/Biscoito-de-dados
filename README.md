@@ -106,14 +106,17 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - Power BI
 - Excel
 - Word
+- Canva
   
  ### Mindset Digital
 > Tecnologias referentes aos processos da API
 
 - Análise SWOT da primeira entrega
   ![Análise SWOT](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/An%C3%A1liseSWOT.jpg)
+  
 - Power BI
 - [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
+  
 - Método 5W2H
   
 # Estrutura do jira software

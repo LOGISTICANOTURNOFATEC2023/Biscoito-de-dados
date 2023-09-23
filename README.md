@@ -111,7 +111,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 > Tecnologias referentes aos processos da API
 
 - Power BI
-- [![MVP]()](https://www.youtube.com/watch?v=wtpstMZwozs)
+- [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
@@ -126,19 +126,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 
-# Backlog do produto e sprints
+# Backlog do produto, sprints e regras de negócio
   
 <div align="center">
     
 ![product backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlogdoproduto.png)
-![sprint backlog](https://github.com/Camillevcrocha/bis/blob/main/Sprint01.png)
+![sprint backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint.png)
 </div>
-
-# Regras de Negócio
-
-### Requisitos funcionais
-
-### Requisitos não funcionais
 
 # Burndown
 <p align="center">
@@ -160,15 +154,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Entendimento dos dados da planilha.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Definição da estrutura de trabalho;
-- [ ] Aprendizado 5W2H;
-- [ ] Aprendizado do Jira Software;
-- [ ] Estruturação dos próximos sprints no Jira;
-- [ ] Reunião sobre o entendimento das ferramentas do projeto;
-- [ ] Comunicação com o cliente;
-- [ ] Documentar todas as informações e processos;
+- [x] Definição da estrutura de trabalho;
+- [x] Aprendizado 5W2H;
+- [x] Aprendizado do Jira Software;
+- [x] Estruturação dos próximos sprints no Jira;
+- [x] Reunião sobre o entendimento das ferramentas do projeto;
+- [x] Comunicação com o cliente;
+- [x] Documentar todas as informações e processos;
 - [x] Analíse SWOT da sprint  1;
-- [ ] Estrutução do GitHub.
+- [x] Estrutução do GitHub.
 
 # Competências desenvolvidas
 

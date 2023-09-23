@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
 * [Estrutura do Jira Software](#estrutura-do-jira-software)
-* [Backlog do produto](#Backlog-do-produto-sprints-e-regras-do-negócio)
+* [Backlog do produto](#Backlog-do-produto-sprints-e-regras-de-negócio)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -112,11 +112,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 
 - Power BI
 - [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
+- 
 # Estrutura do jira software
 
 ## Cronograma

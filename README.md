@@ -8,7 +8,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # Índice
 * [Nossa empresa](#Missão-visão-e-valores)
 * [Cronograma](#Cronograma-das-sprints)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
@@ -16,7 +15,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Backlog do produto](#Backlog-do-produto-sprints-e-regras-de-negócio)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Missão, visão e valores
 
@@ -62,24 +60,27 @@ aprendizado e progresso profissional;
 # Cronograma das sprints
 
 Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 04/09/2023 | Concluido| [Ver relatório](https://github.com/Camillevcrocha/bis/blob/main/Kick-off%20API%201N.pptx) | 
-|0| 25/09/2023 | Em processo|  | 
+|------|--------|------|--------| 
+|0| 25/09/2023 | Concluido |  | 
 |1| 16/10/2023| A fazer |  | 
 |2| 06/11/2023 | A fazer|  | 
 |3| 27/11/2023 | A fazer |  | 
 |Feira de Soluções| 12/12/2023 | A fazer | | 
 
-
-# Micro Certificações
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
 # Equipe
 ![Equipe](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Autores.png)
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner | Fernando Batistella  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-batistella-519167288/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fernando-Batistella)              |
+| Scrum Master  | Gabriela de Ávila     |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-%C3%A1vila-296a54135) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AvilaGabriela/gabi)     |
+| Team Member   | Camille Vitória |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camille-vitoria-692099246) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Camillevcrocha)        |
+|  Team Member  | Carlos Giovanni|   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-giovanni-2693601ba) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosgiovanni2001)   |
+|  Team Member  | Clayton |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-souza-29489224a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  | Eliel Maciel|   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel)          |
+|  Team Member  | Gabriel Sousa|       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/gabriel-sousa-1a2275292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bieelsousa) |
+|  Team Member  | Tassia Nataly|           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A1ssia-nataly-a33275292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/TassiaKampws)
+
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar a identificar o potencial regional de movimentação de cargas que podem alavancar o aeroporto de São José dos Campos, utilizando:
@@ -111,11 +112,8 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
  ### Mindset Digital
 > Tecnologias referentes aos processos da API
 
-- Análise SWOT da primeira entrega
-  ![Análise SWOT](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/An%C3%A1liseSWOT.jpg)
-  
 - Power BI
-- [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
+ [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
   
 # Estrutura do jira software
 
@@ -198,16 +196,3 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Resiliência |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
-
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Fernando Batistella  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-batistella-519167288/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fernando-Batistella)              |
-| Scrum Master  | Gabriela de Ávila     |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-%C3%A1vila-296a54135) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AvilaGabriela/gabi)     |
-| Team Member   | Camille Vitória |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camille-vitoria-692099246) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Camillevcrocha)        |
-|  Team Member  | Carlos Giovanni|   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-giovanni-2693601ba) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosgiovanni2001)   |
-|  Team Member  | Clayton |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-souza-29489224a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Eliel Maciel|   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel)          |
-|  Team Member  | Gabriel Sousa|       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/gabriel-sousa-1a2275292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bieelsousa) |
-|  Team Member  | Tassia Nataly|           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A1ssia-nataly-a33275292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/TassiaKampws)
-

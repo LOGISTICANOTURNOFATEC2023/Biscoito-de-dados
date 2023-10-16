@@ -61,7 +61,7 @@ aprendizado e progresso profissional;
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
-|0| 25/09/2023 | Concluido | [Ver relatório](https://github.com/Camillevcrocha/bis/blob/main/Kick-off%20API%201N.pptx | 
+|0| 25/09/2023 | Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Relat%C3%B3riodasprintzero.docx)| 
 |1| 16/10/2023| A fazer |  | 
 |2| 06/11/2023 | A fazer|  | 
 |3| 27/11/2023 | A fazer |  | 

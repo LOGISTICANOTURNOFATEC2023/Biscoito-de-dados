@@ -128,15 +128,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlogdoproduto.png)
+![product](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlogdoproduto.png)
 ![sprint backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint.png)
 </div>
 
 # Burndown
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
+![Burndonw](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/burndown.jpeg)
 
 ## Apresentação do backlog
 - Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
@@ -151,16 +148,33 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Aprendizado de power BI;
 - Entendimento dos dados da planilha.
 
-## Sprint 1. Desenvolvimento do Projeto
+## Sprint zero. Desenvolvimento do Projeto
 - [x] Definição da estrutura de trabalho;
 - [x] Aprendizado 5W2H;
 - [x] Aprendizado do Jira Software;
 - [x] Estruturação dos próximos sprints no Jira;
 - [x] Reunião sobre o entendimento das ferramentas do projeto;
-- [x] Comunicação com o cliente;
 - [x] Documentar todas as informações e processos;
-- [x] Analíse SWOT da sprint  1;
+- [x] Analíse SWOT da sprint  zero;
 - [x] Estrutução do GitHub.
+     
+  ## Sprint um. Validação do dashboard
+- [x] Aprendizado do Jira Software;
+- [x] Estruturação dos próximos sprints no Jira;
+- [ ] Documentar todas as informações e processos;
+- [ ] Estrutução do GitHub.
+- [x] Aprendizado do Power BI;
+
+## Sprint dois. Validação final do Projeto
+- [ ] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
+- [ ] Aprendizado do Power BI;
+- [ ] Definir KPI´s de acordo com a demanda do cliente;
+- [ ] Documentar todas as informações e processos;
+- [ ] Estruturação da ultima sprint no Jira;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Análise de países que são os melhores parceiros comerciais;
+- [ ] Workshop da equipe para nivelamento de conhecimento;
+- [ ] Aprendizado de como gerar interação entre os dados.
 
 # Competências desenvolvidas
 

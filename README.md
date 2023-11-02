@@ -68,7 +68,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 12/12/2023 | A fazer | | 
 
 # Equipe
-![Equipe](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Autores.png)
+![Equipe](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Autores.jpg)
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | Fernando Batistella  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-batistella-519167288/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fernando-Batistella)              |
@@ -103,10 +103,11 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
 - [Jira Software](https://log206g3.atlassian.net/jira/software/projects/scrum/boards/1)
 - [Github](https://github.com/logisticanoturnofatec2023/biscoito-de-dados)
-- Power BI
-- Excel
-- Word
 - Canva
+- Excel
+- Power BI
+- Whatsapp
+- Word
   
  ### Mindset Digital
 > Tecnologias referentes aos processos da API
@@ -114,15 +115,6 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - Power BI
  [![Power BI](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/PowerBI.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
   
-# Estrutura do jira software
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence, porem essa parte ainda está em processo.
- <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
 # Backlog do produto, sprints e regras de negócio
   
 <div align="center">
@@ -183,14 +175,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| 5W2H |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| SWOT|  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Jira software |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Power BI |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| GitHub|  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de projetos |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Product Owner |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| 5W2H |★ ★ ★ ★ ★ ★ ★ ★ ★ ★|
+| SWOT| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Jira software |  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆|
+| Power BI |  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub|  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de projetos |  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Scrum Master |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Product Owner |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
@@ -200,12 +192,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade|  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Dedicação |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração |  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade|  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Dedicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade |  ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência |  ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  |
 
 </details>

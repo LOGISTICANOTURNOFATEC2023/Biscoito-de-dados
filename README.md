@@ -91,7 +91,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 
 # Vídeos e apresentações das sprints
 
-![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+![Watch the video](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/IMG-20231102-WA0051.jpg)(https://youtu.be/HhthnYy3wI4?si=Oke5JVVQr6hlI_zj)
 
 ## Tecnologias Utilizadas
   ### Produto 

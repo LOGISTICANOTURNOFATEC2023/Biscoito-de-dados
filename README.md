@@ -91,9 +91,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 
 # Vídeos e apresentações das sprints
 
-  <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## Tecnologias Utilizadas
   ### Produto 

@@ -161,9 +161,9 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - [ ] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
 - [x] Aprendizado do Power BI;
 - [x] Definir KPI´s de acordo com a demanda do cliente;
-- [x] Documentar todas as informações e processos;
-- [ ] Estruturação da ultima sprint no Jira;
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Documentar todas as informações e processos;
+- [x] Estruturação da ultima sprint no Jira;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 - [ ] Análise de países que são os melhores parceiros comerciais;
 - [ ] Workshop da equipe para nivelamento de conhecimento;
 - [x] Aprendizado de como gerar interação entre os dados.

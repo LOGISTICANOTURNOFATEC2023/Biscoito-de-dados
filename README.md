@@ -61,8 +61,8 @@ aprendizado e progresso profissional;
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
-|0| 25/09/2023 | Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Relat%C3%B3riodasprintzero.docx)| 
-|1| 16/10/2023| Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20um.docx) | 
+|0| 25/09/2023 | Concluido | [Ver relatório]()| 
+|1| 16/10/2023| Concluido | [Ver relatório]() | 
 |2| 06/11/2023 | Em andamento |  | 
 |3| 27/11/2023 | A fazer |  | 
 |Feira de Soluções| 12/12/2023 | A fazer | | 
@@ -120,11 +120,14 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 <div align="center">
     
 ![product](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlogdoproduto.png)
-![sprint backlog](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint.png)
 </div>
 
 # Burndown
+* Sprint um
 ![Burndonw](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/burndown.jpeg)
+
+* Sprint dois
+![Burndonw](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/jira.jpeg)
 
 ## Apresentação do backlog
 - Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
@@ -152,20 +155,20 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
   ## Sprint um. Validação do dashboard
 - [x] Aprendizado do Jira Software;
 - [x] Estruturação dos próximos sprints no Jira;
-- [ ] Documentar todas as informações e processos;
-- [ ] Estrutução do GitHub.
+- [x] Documentar todas as informações e processos;
+- [x] Estrutução do GitHub.
 - [x] Aprendizado do Power BI;
 
 ## Sprint dois. Validação final do Projeto
 - [ ] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
-- [ ] Aprendizado do Power BI;
-- [ ] Definir KPI´s de acordo com a demanda do cliente;
-- [ ] Documentar todas as informações e processos;
+- [x] Aprendizado do Power BI;
+- [x] Definir KPI´s de acordo com a demanda do cliente;
+- [x] Documentar todas as informações e processos;
 - [ ] Estruturação da ultima sprint no Jira;
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
 - [ ] Análise de países que são os melhores parceiros comerciais;
 - [ ] Workshop da equipe para nivelamento de conhecimento;
-- [ ] Aprendizado de como gerar interação entre os dados.
+- [x] Aprendizado de como gerar interação entre os dados.
 
 # Competências desenvolvidas
 

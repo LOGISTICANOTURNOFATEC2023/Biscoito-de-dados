@@ -132,6 +132,9 @@ Segue video do MVP da sprint três, clique na imagem.
 * Sprint dois
 ![Burndonw](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/jira.jpeg)
 
+* Sprint três
+![Burndonw](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Backlog%20sprint%203.jpeg)
+
 ## Apresentação do backlog
 - Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
 - Definir KPI´s de acordo com a demanda do cliente;
@@ -174,8 +177,8 @@ Segue video do MVP da sprint três, clique na imagem.
 - [x] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
 - [x] Documentar todas as informações e processos;
 - [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Análise de países que são os melhores parceiros comerciais;
-- [ ] Workshop da equipe para nivelamento de conhecimento;
+- [x] Análise de países que são os melhores parceiros comerciais;
+- [x] Workshop da equipe para nivelamento de conhecimento;
       
 # Competências desenvolvidas
 

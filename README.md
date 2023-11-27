@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 |0| 25/09/2023 | Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20zero.docx)| 
 |1| 16/10/2023| Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20um.docx) | 
 |2| 06/11/2023 | Concluido |  [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20dois.docx) | 
-|3| 27/11/2023 | Em andamento |  | 
+|3| 27/11/2023 | Concluido |  [Ver relatório]( | 
 |Feira de Soluções| 12/12/2023 | A fazer | | 
 
 # Equipe

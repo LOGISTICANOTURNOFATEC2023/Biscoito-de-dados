@@ -65,7 +65,7 @@ Sprint | Previsão | Status| Histórico|
 |1| 16/10/2023| Concluido | [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20um.docx) | 
 |2| 06/11/2023 | Concluido |  [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%20dois.docx) | 
 |3| 27/11/2023 | Concluido |  [Ver relatório](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Sprint%203.docx) | 
-|Feira de Soluções| 12/12/2023 | Concluido | | 
+|Feira de Soluções| 12/12/2023 | Concluido | [Ver relatório geral](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Relat%C3%B3rio%20Log%201%C2%B0.docx)| 
 
 # Equipe
 ![Equipe](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados/blob/main/Autores.jpg)
@@ -158,16 +158,20 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 - [x] Aprendizado do Power BI;
 
 ## Sprint dois. Validação final do Projeto
-- [ ] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
 - [x] Aprendizado do Power BI;
 - [x] Definir KPI´s de acordo com a demanda do cliente;
-- [ ] Documentar todas as informações e processos;
+- [x] Documentar todas as informações e processos;
 - [x] Estruturação da ultima sprint no Jira;
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Análise de países que são os melhores parceiros comerciais;
-- [ ] Workshop da equipe para nivelamento de conhecimento;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
 - [x] Aprendizado de como gerar interação entre os dados.
 
+## Sprint três. Entrega final
+- [x] Entender como funciona a estrutura de importação e de exportação do aeroporto SJK;
+- [x] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Análise de países que são os melhores parceiros comerciais;
+- [ ] Workshop da equipe para nivelamento de conhecimento;
+      
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
